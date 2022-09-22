@@ -71,4 +71,5 @@ app.put('/books/:id', (req, res) => {
 
 app.listen(8800, () => {
     console.log('Conneted to server!');
+    console.log('Conneted to server!');
 });
